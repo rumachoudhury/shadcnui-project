@@ -53,8 +53,8 @@ export default function Home() {
             <Image
               src="/nextjs-icon.svg"
               alt="Logo"
-              width={60}
-              height={60}
+              width={40}
+              height={40}
               className="rounded-full"
             />
             <h1 className="text-4xl font-extrabold text-transparent bg-gradient-to-r from-purple-500 via-pink-500 to-yellow-500 bg-clip-text">
