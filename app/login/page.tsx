@@ -18,7 +18,7 @@ export default function Home() {
               className="cursor-pointer bg-blue-500 text-white"
               variant="outline"
             >
-              Back to Home
+              Back Home
             </Button>
           </Link>
         </div>
